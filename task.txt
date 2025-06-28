@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+	char name='sai';
+	char fruit='mango';
+	
+	printf("enter the name:%c\n,fruit:%c\n",name,fruit);
+	return 0;
+}
+
+
+	
